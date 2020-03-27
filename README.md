@@ -25,7 +25,7 @@
 
 ### :memo: License
 
-Be The Hero is released under the MIT License. 
+**Be The Hero** is released under the MIT License. 
 
 
 ---
